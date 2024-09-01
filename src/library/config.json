@@ -1,0 +1,6 @@
+{
+  "name": "Health",
+  "network": "ghostnet",
+  "rpc": "https://ghostnet.smartpy.io",
+  "contractAddr": "KT1PXzN83VLpHZUJ9G9Apr2461PkvTZY5nHe"
+}

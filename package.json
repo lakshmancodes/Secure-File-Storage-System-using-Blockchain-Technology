@@ -1,0 +1,39 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@taquito/beacon-wallet": "^19.0.2",
+    "@taquito/taquito": "^10.0.0",
+    "install": "^0.13.0",
+    "npm": "^10.4.0",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-hook-form": "^7.34.0",
+    "react-is": "^16.13.1",
+    "react-scripts": "^5.0.1",
+    "styled-components": "^5.3.11"
+  },
+  "scripts": {
+    "start": "react-scripts --openssl-legacy-provider start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
